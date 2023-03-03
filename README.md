@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shubham Muley
-- 👀 I’m interested in Coding
-- 💞️ I’m looking to collaborate on Angular & .NET Core applications
-- 📫 How to reach me : muleyshubham95@gmail.com
+- 👀 I’m Software Developer
 
 <!---
 muleyshubham95/muleyshubham95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
